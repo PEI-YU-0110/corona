@@ -8459,7 +8459,8 @@ h5,
         .video-hero .text .subheading:after, .video-hero .text .subheading:before {
           display: none; } }
     .video-hero .text h1 {
-      font-family: "Great Vibes", cursive;
+      font-family: 'Balsamiq Sans', cursive;
+	  font-family: 'Noto Sans TC', sans-serif;
       font-size: 9vw;
       color: #fff; }
 
