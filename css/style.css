@@ -8474,7 +8474,7 @@ h5,
     font-size: 40px;
     font-weight: 500;
     border-left: 1px solid rgba(0, 0, 0, 0.05);
-    color: #fff;
+    color: #999999;
     margin-bottom: 0; }
     @media (max-width: 991.98px) {
       #timer .time {
@@ -8484,7 +8484,7 @@ h5,
     #timer .time span {
       font-size: 12px;
       display: block;
-      color: #fff;
+      color: #999999;
       letter-spacing: 2px;
       text-transform: uppercase; }
 
@@ -9770,6 +9770,6 @@ textarea.form-control {
 .countdate {
 	font-family: "Noto Sans TC", sans-serif,"Poppins", sans-serif;
 	font-size: 3rem;
-	text-align: center !important;
+	text-align: center!important;
     color: #999999;
 }
