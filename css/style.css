@@ -8464,8 +8464,9 @@ h5,
       color: #ffffff; }
 
 #timer {
-  width: 60%;
-  margin: 0 auto; }
+  width: 75%;
+  margin: 0 auto;
+  text-align: center;  }
   @media (max-width: 991.98px) {
     #timer {
       width: 90%; } }
@@ -9770,6 +9771,6 @@ textarea.form-control {
 .countdate {
 	font-family: "Noto Sans TC", sans-serif,"Poppins", sans-serif;
 	font-size: 3rem;
-	text-align: center!important;
+	margin: 0 auto;
     color: #999999;
 }
