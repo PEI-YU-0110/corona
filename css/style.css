@@ -8459,10 +8459,9 @@ h5,
         .video-hero .text .subheading:after, .video-hero .text .subheading:before {
           display: none; } }
     .video-hero .text h1 {
-      font-family: 'Noto Sans TC', sans-serif;
-	  font-family: 'Poppins', sans-serif;
-	  font-size: 4.5rem;
-      color: #fff; }
+      font-family: "Noto Sans TC", sans-serif,"Poppins", sans-serif;
+	  font-size: 4rem;
+      color: #ffffff; }
 
 #timer {
   width: 60%;
@@ -9769,8 +9768,7 @@ textarea.form-control {
     stroke-dashoffset: -136px; } }
 	
 .countdate {
-	font-family: 'Noto Sans TC', sans-serif;
-	font-family: 'Poppins', sans-serif;
+	font-family: "Noto Sans TC", sans-serif,"Poppins", sans-serif;
 	font-size: 3rem;
     color: #ffffff;
 }
