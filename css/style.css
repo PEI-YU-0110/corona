@@ -8459,9 +8459,8 @@ h5,
         .video-hero .text .subheading:after, .video-hero .text .subheading:before {
           display: none; } }
     .video-hero .text h1 {
-      font-family: 'Balsamiq Sans', cursive;
-	  font-family: 'Noto Sans TC', sans-serif;
-	  font-size: 5rem;
+      font-family: 'Balsamiq Sans', cursive,'Noto Sans TC', sans-serif;
+	  font-size: 4.5rem;
       color: #fff; }
 
 #timer {
@@ -9767,3 +9766,9 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+	
+.countdate {
+	font-family: 'Balsamiq Sans', cursive,'Noto Sans TC', sans-serif;
+	font-size: 3rem;
+    color: #ffffff;
+}
