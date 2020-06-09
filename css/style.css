@@ -9002,7 +9002,7 @@ textarea.form-control {
     line-height: 1.2;
     font-size: 90px;
     font-weight: normal;
-    font-family: "Great Vibes", cursive;
+    font-family: "Noto Sans TC", sans-serif,"Poppins", sans-serif;
     color: #f67e7d; }
     @media (max-width: 991.98px) {
       .heading-section h2 {
