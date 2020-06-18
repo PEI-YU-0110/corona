@@ -6633,7 +6633,7 @@ button.bg-dark:focus {
 
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important; }
+  margin-top: 1rem !important; }
 
 .ml-4,
 .mx-4 {
@@ -9243,7 +9243,7 @@ textarea.form-control {
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
-    border-radius: 50%; }
+    border-radius: 30%; }
   .testimony-wrap .name {
     font-weight: 500;
     font-size: 20px;
