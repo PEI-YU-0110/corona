@@ -9237,7 +9237,7 @@ textarea.form-control {
   border: 1px solid rgba(0, 0, 0, 0.02);
   -webkit-box-shadow: 0px 5px 21px -14px rgba(0, 0, 0, 0.14);
   -moz-box-shadow: 0px 5px 21px -14px rgba(0, 0, 0, 0.14);
-  box-shadow: 0px 5px 21px -14px rgba(0, 0, 0, 0.6);
+  box-shadow: 0px 10px 21px -14px rgba(0, 0, 0, 0.6);
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
@@ -9844,4 +9844,13 @@ ul.sick {
     font-family: 'Font Awesome 5 Free';
     font-weight: 400;
 	padding: 15px;
+}
+i.fas.fa-7x.fa-virus {
+    color: #ffffff;
+}
+img.taiwan{
+	width:50%;
+	height:50%;
+	border-radius: 10px;
+	padding-bottom:0!important;
 }
