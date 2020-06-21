@@ -7552,7 +7552,8 @@ button.bg-dark:focus {
   .px-lg-4 {
     padding-left: 1.5rem !important; }
   .p-lg-5 {
-    padding: 40px !important; }
+    padding: 40px !important;
+	padding-left: 15px!important;	}
   .pt-lg-5,
   .py-lg-5 {
     padding-top: 3rem !important; }
@@ -9237,7 +9238,7 @@ textarea.form-control {
   border: 1px solid rgba(0, 0, 0, 0.02);
   -webkit-box-shadow: 0px 5px 21px -14px rgba(0, 0, 0, 0.14);
   -moz-box-shadow: 0px 5px 21px -14px rgba(0, 0, 0, 0.14);
-  box-shadow: 0px 5px 21px -14px rgba(0, 0, 0, 0.14);
+  box-shadow: 0px 5px 21px -14px rgba(0, 0, 0, 0.6);
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
@@ -9825,4 +9826,23 @@ p.sick {
 h3.covid {
     padding-top: 20px;
     margin-bottom: 8px!important;
+}
+li.sick {
+    list-style: none;
+}
+ul.sick {
+    padding-inline-start: 0px!important;
+    font-size: 30px;
+    padding-right: 40px;
+	margin: auto;
+}
+.fa, .fas {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+	padding: 15px;
+}
+.far {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 400;
+	padding: 15px;
 }
