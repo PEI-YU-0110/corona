@@ -8202,7 +8202,7 @@ h5,
     padding-top: .7rem;
     padding-bottom: .7rem; }
     .ftco-navbar-light .navbar-brand:hover, .ftco-navbar-light .navbar-brand:focus {
-      color: #000000 !important; }
+      color: #FF8A04 !important; }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-brand {
         color: #fff; } }
@@ -9047,7 +9047,7 @@ textarea.form-control {
 
 .ftco-footer {
   font-size: 16px;
-  background: white;
+  background-color: #696969;
   padding: 7em 0;
   z-index: 0;
   position: relative; }
@@ -9058,8 +9058,7 @@ textarea.form-control {
     right: 0;
     bottom: 0;
     content: '';
-    opacity: .7;
-    background: #fff; }
+    opacity: .7;     }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
     letter-spacing: .1em; }
